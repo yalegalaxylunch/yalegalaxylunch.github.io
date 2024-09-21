@@ -22,40 +22,76 @@ For Fall 2024, we will be organizing the seminar in hybrid mode every Wednesday 
       <td><a href="https://arxiv.org/abs/2406.09552">Multiphase circumgalactic medium of MACS1931-26 BCG</a></td>
     </tr>
     <tr>
-      <td>Sept. 17<br>12pm - 1pm</td>
-      <td>Yasmeen Asali</td>
-      <td><a href="https://johnsoltis.github.io/">John Soltis</a></td>
-      <td>Direct Estimation of Galaxy Cluster Mass Accretion Rate using Machine Learning</td>
+      <td>Sept. 4</td>
+      <td>Chris Carr</td>
+      <td>Columbia University</td>
+      <td><a href="">TITLE</a></td>
     </tr>
     <tr>
-      <td>Oct. 1<br>12pm - 1pm</td>
-      <td>Yasmeen Asali</td>
-      <td><a href="https://www.astro.columbia.edu/content/kartheik-iyer">Kartheik Iyer</a></td>
-      <td></td>
+      <td>Sept. 11</td>
+      <td>Jonah Gannon</td>
+      <td>Swinburne University of Technology</td>
+      <td><a href="">TITLE</a></td>
     </tr>
     <tr>
-      <td>Oct. 15<br>12pm - 1pm</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Sept. 25</td>
+      <td>Bingjie Wang</td>
+      <td>Penn State</td>
+      <td>title</td>
     </tr>
     <tr>
-      <td>Oct. 29<br>12pm - 1pm</td>
-      <td>Yasmeen Asali</td>
-      <td><a href="https://www.jiaxuanli.me/">Jiaxuan Li</a></td>
-      <td></td>
+      <td>Oct. 2</td>
+      <td>Rayna Rampalli</td>
+      <td>Dartmouth</td>
+      <td>title</td>
     </tr>
     <tr>
-      <td>Nov. 12<br>12pm - 1pm</td>
-      <td>Yasmeen Asali</td>
-      <td><a href="https://users.obs.carnegiescience.edu/iescala/">Ivanna Escala</a></td>
-      <td></td>
+      <td>Oct. 9</td>
+      <td>Chris Hayward</td>
+      <td>CCA</td>
+      <td>title</td>
     </tr>
     <tr>
-      <td>Dec. 3<br>12pm - 1pm</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Oct. 16</td>
+      <td>Rodrigo Cordova Rosado</td>
+      <td>Princeton University</td>
+      <td>title</td>
+    </tr>
+    <tr>
+      <td>Oct. 23</td>
+      <td>Tatsuya Akiba</td>
+      <td>University of Colorado</td>
+      <td>title</td>
+    </tr>
+    <tr>
+      <td>Oct. 30</td>
+      <td>Austen Gabrielpillai</td>
+      <td>institution</td>
+      <td>title</td>
+    </tr>
+    <tr>
+      <td>Nov. 6</td>
+      <td>Ore Gottlieb</td>
+      <td>CCA</td>
+      <td>title</td>
+    </tr>
+    <tr>
+      <td>Nov. 13</td>
+      <td>Sal Fu</td>
+      <td>UC Berkeley</td>
+      <td>title</td>
+    </tr>
+    <tr>
+      <td>Nov. 20</td>
+      <td>Joseph Breneman</td>
+      <td>Rutgers University</td>
+      <td>title</td>
+    </tr>
+    <tr>
+      <td>Dec. 4</td>
+      <td>Aklant Bhowmick</td>
+      <td>University of Florida</td>
+      <td>title</td>
     </tr>
   </tbody>
 </table>
