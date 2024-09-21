@@ -71,7 +71,7 @@ a {
   text-decoration: none;
 }
 a strong {
-  color: inherit;
+  color: #96ab82;
 }
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
