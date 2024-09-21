@@ -3,32 +3,32 @@ layout: post
 title: Fall 2024 Schedule 
 ---
 
-For Fall 2024, we will be organizing the seminar in hybrid mode. The zoom link will be sent via deptartment wide email and the in-person session will be held in the KT 5th floor conference room. While the seminar is held in virtual or hybrid mode, we ask our attendees to follow our <a href="{{ site.baseurl }}/rules">Guidelines for Virtual Engagement</a>.
+For Fall 2024, we will be organizing the seminar in hybrid mode every Wednesday from 12pm to 1pm eastern time. The zoom link will be sent via deptartment wide email and the in-person session will be held in KT 501. While the seminar is held in virtual or hybrid mode, we ask our attendees to follow our <a href="{{ site.baseurl }}/rules">Guidelines for Virtual Engagement</a>. Below is the current schedule for this semester, with speakers, home institutions, talk titles, and arXiv links if available at this time. 
 
 <table>
   <thead>
     <tr>
-      <th>Date (Eastern Time)</th>
-      <th>Organizer</th>
-      <th>Long-Form Speaker</th>
-      <th>Title/URL of paper/topic</th>
+      <th>Date</th>
+      <th>Speaker</th>
+      <th>Institution</th>
+      <th>Topic</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Sept. 3<br>12pm - 1pm</td>
-      <td>Yasmeen Asali</td>
-      <td>Journal Club</td>
-      <td>See “Yale Astro. Data Science” on <a href="https://www.benty-fields.com/">benty-fields</a> for papers</td>
+      <td>Sept. 3<br></td>
+      <td>Laya Ghodsi (remote)</td>
+      <td>University of British Columbia</td>
+      <td>[Multiphase circumgalactic medium of MACS1931-26 BCG](https://arxiv.org/abs/2406.09552)</td>
     </tr>
     <tr>
       <td>Sept. 17<br>12pm - 1pm</td>
-      <td>Yasmeen Asali</td>
-      <td><a href="https://johnsoltis.github.io/">John Soltis</a></td>
+      <td></td>
+      <td></td>
       <td>Direct Estimation of Galaxy Cluster Mass Accretion Rate using Machine Learning</td>
     </tr>
     <tr>
-      <td>Oct. 1<br>12pm - 1pm</td>
+      <td>Oct. 1<br></td>
       <td>Yasmeen Asali</td>
       <td><a href="https://www.astro.columbia.edu/content/kartheik-iyer">Kartheik Iyer</a></td>
       <td></td>
@@ -62,4 +62,4 @@ For Fall 2024, we will be organizing the seminar in hybrid mode. The zoom link w
 
 -----
 
-Fall 2024 Organizer: <a href="mailto:yasmeen.asali@yale.edu">Yasmeen Asali.</a>
+Fall 2024 Organizer: <a href="mailto:chloe.neufeld@yale.edu">Chloe Neufeld.</a>
