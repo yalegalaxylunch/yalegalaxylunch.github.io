@@ -19,7 +19,7 @@ For Fall 2024, we will be organizing the seminar in hybrid mode every Wednesday 
       <td>Sept. 3<br></td>
       <td>Laya Ghodsi (remote)</td>
       <td>University of British Columbia</td>
-      <td>[Multiphase circumgalactic medium of MACS1931-26 BCG](https://arxiv.org/abs/2406.09552)</td>
+      <td><a href="https://arxiv.org/abs/2406.09552"> Multiphase circumgalactic medium of MACS1931-26 BCG </a></td>
     </tr>
     <tr>
       <td>Sept. 17<br>12pm - 1pm</td>
