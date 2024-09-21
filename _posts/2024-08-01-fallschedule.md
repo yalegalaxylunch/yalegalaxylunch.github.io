@@ -11,7 +11,7 @@ For Fall 2024, we will be organizing the seminar in hybrid mode every Wednesday 
       <th>Date</th>
       <th>Speaker</th>
       <th>Institution</th>
-      <th>Topic / paper url</th>
+      <th>Topic</th>
     </tr>
   </thead>
   <tbody>
