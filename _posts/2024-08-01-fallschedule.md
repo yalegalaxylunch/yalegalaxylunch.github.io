@@ -8,18 +8,18 @@ For Fall 2024, we will be organizing the seminar in hybrid mode every Wednesday 
 <table>
   <thead>
     <tr>
-      <th>Date (Eastern Time)</th>
-      <th>Organizer</th>
-      <th>Long-Form Speaker</th>
-      <th>Title/URL of paper/topic</th>
+      <th>Date</th>
+      <th>Speaker</th>
+      <th>Institution</th>
+      <th>Topic / paper url</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Sept. 3<br>12pm - 1pm</td>
-      <td>Yasmeen Asali</td>
-      <td>Journal Club</td>
-      <td>See “Yale Astro. Data Science” on <a href="https://www.benty-fields.com/">benty-fields</a> for papers</td>
+      <td>Aug. 28</td>
+      <td>Laya Ghodsi (remote)</td>
+      <td>University of British Columbia</td>
+      <td><a href="https://arxiv.org/abs/2406.09552">Multiphase circumgalactic medium of MACS1931-26 BCG</a></td>
     </tr>
     <tr>
       <td>Sept. 17<br>12pm - 1pm</td>
