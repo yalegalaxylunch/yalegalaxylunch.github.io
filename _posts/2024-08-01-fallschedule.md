@@ -11,7 +11,7 @@ For Fall 2024, we will be organizing the seminar in hybrid mode every Wednesday 
       <th>Date</th>
       <th>Speaker</th>
       <th>Institution</th>
-      <th>Topic / paper url</th>
+      <th>Topic</th>
     </tr>
   </thead>
   <tbody>
@@ -25,73 +25,73 @@ For Fall 2024, we will be organizing the seminar in hybrid mode every Wednesday 
       <td>Sept. 4</td>
       <td>Chris Carr</td>
       <td>Columbia University</td>
-      <td><a href="">TITLE</a></td>
+      <td><a href="https://arxiv.org/abs/2408.10358">The All-Sky Impact of the LMC on the Milky Way Circumgalactic Medium</a></td>
     </tr>
     <tr>
       <td>Sept. 11</td>
-      <td>Jonah Gannon</td>
+      <td>Jonah Gannon (remote)</td>
       <td>Swinburne University of Technology</td>
-      <td><a href="">TITLE</a></td>
+      <td><a href="https://arxiv.org/abs/2405.09104">The Building Evidence that Some Ultra-Diffuse Galaxies are `Failed Galaxies'</a></td>
     </tr>
     <tr>
       <td>Sept. 25</td>
       <td>Bingjie Wang</td>
       <td>Penn State</td>
-      <td>title</td>
+      <td><a href="https://arxiv.org/abs/2405.01473">Uncovering Early Galaxy Formation with JWST: A Modeling Perspective</a></td>
     </tr>
     <tr>
       <td>Oct. 2</td>
       <td>Rayna Rampalli</td>
       <td>Dartmouth</td>
-      <td>title</td>
+      <td> galactic archaeology/Milky Way </td>
     </tr>
     <tr>
       <td>Oct. 9</td>
       <td>Chris Hayward</td>
       <td>CCA</td>
-      <td>title</td>
+      <td>Bursty star formation: physical drivers and implications for JWST observations of high-redshift galaxies</td>
     </tr>
     <tr>
       <td>Oct. 16</td>
       <td>Rodrigo Cordova Rosado</td>
       <td>Princeton University</td>
-      <td>title</td>
+      <td>TBA</td>
     </tr>
     <tr>
       <td>Oct. 23</td>
       <td>Tatsuya Akiba</td>
       <td>University of Colorado</td>
-      <td>title</td>
+      <td><a href="https://arxiv.org/abs/2404.04296">On the Hunt for Rogue Supermassive Black Holes Using Tidal Disruption Events</a></td>
     </tr>
     <tr>
       <td>Oct. 30</td>
       <td>Austen Gabrielpillai</td>
-      <td>institution</td>
-      <td>title</td>
+      <td>CUNY</td>
+      <td> galaxy formation and computational astrophysics </td>
     </tr>
     <tr>
       <td>Nov. 6</td>
       <td>Ore Gottlieb</td>
       <td>CCA</td>
-      <td>title</td>
+      <td>TBA</td>
     </tr>
     <tr>
       <td>Nov. 13</td>
       <td>Sal Fu</td>
       <td>UC Berkeley</td>
-      <td>title</td>
+      <td>TBA</td>
     </tr>
     <tr>
       <td>Nov. 20</td>
       <td>Joseph Breneman</td>
       <td>Rutgers University</td>
-      <td>title</td>
+      <td>TBA</td>
     </tr>
     <tr>
       <td>Dec. 4</td>
       <td>Aklant Bhowmick</td>
       <td>University of Florida</td>
-      <td>title</td>
+      <td>TBA</td>
     </tr>
   </tbody>
 </table>
