@@ -43,7 +43,7 @@ For Fall 2024, we will be organizing the seminar in hybrid mode every Wednesday 
       <td>Oct. 2</td>
       <td>Rayna Rampalli</td>
       <td>Dartmouth</td>
-      <td> galactic archaeology/Milky Way </td>
+      <td>On Heterogeneity in Stellar Kinematics and Chemistries within the Milky Way</td>
     </tr>
     <tr>
       <td>Oct. 9</td>
@@ -55,7 +55,7 @@ For Fall 2024, we will be organizing the seminar in hybrid mode every Wednesday 
       <td>Oct. 16</td>
       <td>Rodrigo Cordova Rosado</td>
       <td>Princeton University</td>
-      <td>TBA</td>
+      <td>Black hole growth and connections to dark matter halos: New insights from wide-field cosmological surveys</td>
     </tr>
     <tr>
       <td>Oct. 23</td>
@@ -67,19 +67,19 @@ For Fall 2024, we will be organizing the seminar in hybrid mode every Wednesday 
       <td>Oct. 30</td>
       <td>Austen Gabrielpillai</td>
       <td>CUNY</td>
-      <td> galaxy formation and computational astrophysics </td>
+      <td>Semi-analytic satellites --  Satellite evolution in Milky Way-like environments via a robust CGM co-evolution model</td>
     </tr>
     <tr>
       <td>Nov. 6</td>
       <td>Ore Gottlieb</td>
       <td>CCA</td>
-      <td>TBA</td>
+      <td>Bridging Physics and Multi-messenger Observations of Black Hole-Powered Events</td>
     </tr>
     <tr>
       <td>Nov. 13</td>
       <td>Sal Fu</td>
       <td>UC Berkeley</td>
-      <td>TBA</td>
+      <td>Detailed Views of the Baryon Cycle of Dwarf Galaxies via Narrowband Imaging</td>
     </tr>
     <tr>
       <td>Nov. 20</td>
