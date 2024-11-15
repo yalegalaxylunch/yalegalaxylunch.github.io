@@ -10,4 +10,4 @@ This seminar has been an established organization in the Astronomy Department fo
 Our seminar is open to all members of the department, from faculty to undergraduates, and we aim to be a welcoming place for all our attendees. We encourage everyone to attend regardless of familiarity with session topics, and we ask all of our speakers to ensure their presentations are accessible to all audience members in any astrophysics field.
 
 
-![image tooltip here](/assets/images/m82.jpg)
+![ESA/Hubble](/public/m82.jpg)
