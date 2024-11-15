@@ -8,3 +8,6 @@ Galaxy Lunch is a Yale Astronomy Department seminar focused on discussing recent
 This seminar has been an established organization in the Astronomy Department for over a decade; this year the organizers are Chloe Neufeld (3rd year graduate student) and Sebastian Monzon (4th year graduate student). The organizers of the seminar solicit interest in giving long-form presentations at the beginning of every term; the seminar is well-known throughout external institutions and slots tend to fill up rapidly. 
 
 Our seminar is open to all members of the department, from faculty to undergraduates, and we aim to be a welcoming place for all our attendees. We encourage everyone to attend regardless of familiarity with session topics, and we ask all of our speakers to ensure their presentations are accessible to all audience members in any astrophysics field.
+
+
+![image tooltip here](/assets/images/m82.jpg)
