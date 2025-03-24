@@ -260,7 +260,7 @@
   
   .about-banner img {
     width: 100%;
-    max-height: 400px;
+    max-height: 250px;
     object-fit: cover;
     border-radius: 0px;
   }
