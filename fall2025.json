@@ -1,9 +1,100 @@
 [
-  {
-    "date": "",
-    "speaker": "",
-    "institution": "",
-    "title": "",
-    "abstract": ""
-  }
+ {
+   "date": "Sept 3",
+   "speaker": "Juneyoung Jeon",
+   "institution": "University of Texas",
+   "title": "",
+   "abstract": ""
+ },
+ {
+   "date": "Sept 10",
+   "speaker": "Aimee Schechter",
+   "institution": "University of Colorado, Boulder",
+   "title": "",
+   "abstract": ""
+ },
+ {
+   "date": "Sept 17",
+   "speaker": "Saiyang Zhang",
+   "institution": "University of Texas",
+   "title": "",
+   "abstract": ""
+ },
+ {
+   "date": "Sept 24",
+   "speaker": "Johannes Lange",
+   "institution": "American University",
+   "title": "",
+   "abstract": ""
+ },
+ {
+   "date": "Oct 1",
+   "speaker": "Naadiyah Jagga",
+   "institution": "York University",
+   "title": "",
+   "abstract": ""
+ },
+ {
+   "date": "Oct 8",
+   "speaker": "Vandana Ramakrishnan",
+   "institution": "Purdue University",
+   "title": "",
+   "abstract": ""
+ },
+ {
+   "date": "Oct 15",
+   "speaker": "Max Newman",
+   "institution": "Rutgers University",
+   "title": "",
+   "abstract": ""
+ },
+ {
+   "date": "Oct 22",
+   "speaker": "Francisco Mercardo",
+   "institution": "Pomona College",
+   "title": "",
+   "abstract": ""
+ },
+ {
+   "date": "Oct 29",
+   "speaker": "Anna Wright",
+   "institution": "CCA",
+   "title": "",
+   "abstract": ""
+ },
+ {
+   "date": "Nov 5",
+   "speaker": "James Sunseri",
+   "institution": "Princeton University",
+   "title": "",
+   "abstract": ""
+ },
+ {
+   "date": "Nov 12",
+   "speaker": "Sam Berek",
+   "institution": "University of Toronto",
+   "title": "",
+   "abstract": ""
+ },
+ {
+   "date": "Nov 19",
+   "speaker": "Abby Mintz",
+   "institution": "Princeton University",
+   "title": "",
+   "abstract": ""
+ },
+ {
+   "date": "Dec 3",
+   "speaker": "Nishant Mishra",
+   "institution": "University of Michigan",
+   "title": "",
+   "abstract": ""
+ },
+ {
+   "date": "Dec 10",
+   "speaker": "Jingyao Zhu",
+   "institution": "Columbia University",
+   "title": "",
+   "abstract": ""
+ }
 ]
