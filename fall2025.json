@@ -10,15 +10,15 @@
    "date": "Sept 10",
    "speaker": "Aimee Schechter",
    "institution": "University of Colorado, Boulder",
-   "title": "",
-   "abstract": ""
+   "title": "From the Little Leagues to the Big Leagues: The Impact of Low-mass Minor to Massive Major Galaxy Mergers on Galaxy Evolution",
+   "abstract": "Galaxy mergers are an integral part of our understanding of how galaxies grow, form new stars, trigger AGN, and evolve morphologically. However, many studies only target major galaxy mergers (mass ratio > 1:4) between massive galaxies (stellar mass > 10^10 solar masses), despite minor mergers (mass ratio 1:10 > 1:4) and lower mass galaxies being much more common by number.  Additionally, mergers have proved challenging to identify, especially at higher redshifts, where they play a large role in galaxy assembly. These relatively unexplored merger populations could contribute significantly to stellar mass build up over cosmic time. I will first discuss how high resolution cosmological simulations have enabled the study of galaxy mergers down to stellar masses of 10^8 solar masses and minor mergers. I find in IllustrisTNG50 that minor mergers do show elevated star formation and black hole accretion rates at 0.2 < z < 3 and maintain these levels for at least 1 Gyr following a merging event, with that impact becoming larger as redshift decreases. Next I will discuss how we take advantage of this high spatial resolution sample of simulated galaxies to train a convolutional neural network to identify mergers, including low mass and minor mergers, at z~1 in mock HST imaging. I achieve ~75% accuracy, similar to that of local redshifts for the first time. I use explainable AI techniques such as Grad-CAM and UMAPs to understand the types of galaxies we can classify well, and which physical properties of galaxies can cause confusion. With this method I will construct an HST/CANDELS merger catalog at z~1 that includes low mass and minor mergers to build a more complete understanding of the impact of mergers on cosmic star formation and the merger - AGN connection. I aim to expand this to other fields and higher redshifts with upcoming surveys from Rubin, Roman, and JWST."
  },
  {
    "date": "Sept 17",
    "speaker": "Saiyang Zhang",
    "institution": "University of Texas",
-   "title": "",
-   "abstract": ""
+   "title": "The Imprint of Primordial Black Holes over Cosmic History",
+   "abstract": "In this talk, I will explore the role of primordial black holes (PBHs) as a component of dark matter throughout cosmic history. I will focus on two mass regimes: stellar-mass PBH candidates in the range of approximately 10-100 $M_{odot}$, and massive PBHs with masses around $10^6 M_{odot}$ as potential seeds for supermassive black holes (SMBHs). Our research combines N-body simulations using the GIZMO code with semi-analytical models to study the impact of PBHs. We find that stellar-mass PBHs, comprising a fraction of $10^{-4}$ to 0.1 of the dark matter, subtly influence the formation of the first stars by preserving the standard model of star formation while shifting star formation toward more massive halos through accretion feedback. These PBHs also contribute significantly to the cosmic radiation background during reionization, without violating current constraints on its timing. In contrast, more massive PBHs (~10^6 M_{odot}$) can seed large halos and disrupt hierarchical structure formation by engulfing newly formed halos. Our recent studies show that the early star formation narrative is further complicated by the initial overdensities and accretion feedback associated with these massive PBHs at high redshift. These findings suggest that PBHs offer a compelling explanation for the presence of overly massive SMBHs at early times, such as UHZ-1 and Abell 2744-QSO1. Furthermore, under the influence of strong baryon-dark matter streaming velocities and Lyman-Werner (LW) radiation, a secondary massive black hole seed may form near a PBH, potentially leading to binary formation with a close mass ratio. Upcoming observations with JWST, Roman, and SKA will be essential in distinguishing PBH-driven structure formation from predictions made by standard $Lambda$CDM cosmology."
  },
  {
    "date": "Sept 24",
@@ -52,15 +52,15 @@
    "date": "Oct 22",
    "speaker": "Francisco Mercardo",
    "institution": "Pomona College",
-   "title": "",
-   "abstract": ""
+   "title": "How Environment Shapes the Structure and Star Formation of Low-Mass Galaxies",
+   "abstract": "While both internal physics and external conditions shape galaxy evolution, low-mass galaxies are especially sensitive to their environments. In this talk, I focus on the environmental side of this picture, highlighting a series of simulation-based projects that explore how surroundings influence low-mass galaxy structure and star formation. I begin with results showing that low-mass galaxies in dense regions are systematically more radially extended than their isolated counterparts, suggesting long-term structural imprints from environmental processes. I then present new findings on how local environment influences formation timescales, star formation activity, and quenched fractions around Milky Way analogs, with comparisons to surveys like SAGA and ELVES. Finally, I share recent work using stream-finding techniques to trace group preprocessing and substructure in simulated satellite systems. Together, these results offer a clearer view of how galaxies are shaped by the company they keep."
  },
  {
    "date": "Oct 29",
    "speaker": "Anna Wright",
    "institution": "CCA",
-   "title": "",
-   "abstract": ""
+   "title": "The Edge of In Situ: Simulating the Stellar Halos of Dwarf Galaxies",
+   "abstract": "Observations have shown that faint extended stellar halos primarily composed of tidal debris from infalling dwarf satellites are ubiquitous around massive galaxies. Recent surveys probing the outskirts of dwarf galaxies have revealed similar structures around many dwarfs in the local universe. However, the origins of the stars that populate the stellar halos of dwarf galaxies is unknown. The contribution from ex situ stars (i.e., those accreted from other galaxies) can teach us about the merger histories of dwarfs and the steepness of the stellar mass—halo mass relation in the ultra-faint regime, while the contribution from in situ stars (i.e., those formed in the dwarf and perturbed into halo orbits) can teach us about feedback processes and the gravitational potential of the dwarf itself. In this presentation, I will show new results from the “Marvelous Massive Dwarfs”, a suite of high resolution cosmological zoom-in simulations of dwarf galaxies run with ChaNGa. I will discuss the assembly histories of these dwarfs, with a focus on where accreted stars from satellites end up and how this shapes the morphology of the central dwarf and its stellar halo. I will also explore how my findings compare to recent results from the TRiangulum EXtended (TREX) and DELVE-DEEP/MADCASH surveys, which have discovered stellar halo-like structures around several local dwarf galaxies."
  },
  {
    "date": "Nov 5",
