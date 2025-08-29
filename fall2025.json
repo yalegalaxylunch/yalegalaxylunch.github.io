@@ -14,15 +14,8 @@
    "abstract": "In this talk, I will explore the role of primordial black holes (PBHs) as a component of dark matter throughout cosmic history. I will focus on two mass regimes: stellar-mass PBH candidates in the range of approximately 10-100 $M_{odot}$, and massive PBHs with masses around $10^6 M_{odot}$ as potential seeds for supermassive black holes (SMBHs). Our research combines N-body simulations using the GIZMO code with semi-analytical models to study the impact of PBHs. We find that stellar-mass PBHs, comprising a fraction of $10^{-4}$ to 0.1 of the dark matter, subtly influence the formation of the first stars by preserving the standard model of star formation while shifting star formation toward more massive halos through accretion feedback. These PBHs also contribute significantly to the cosmic radiation background during reionization, without violating current constraints on its timing. In contrast, more massive PBHs (~10^6 M_{odot}$) can seed large halos and disrupt hierarchical structure formation by engulfing newly formed halos. Our recent studies show that the early star formation narrative is further complicated by the initial overdensities and accretion feedback associated with these massive PBHs at high redshift. These findings suggest that PBHs offer a compelling explanation for the presence of overly massive SMBHs at early times, such as UHZ-1 and Abell 2744-QSO1. Furthermore, under the influence of strong baryon-dark matter streaming velocities and Lyman-Werner (LW) radiation, a secondary massive black hole seed may form near a PBH, potentially leading to binary formation with a close mass ratio. Upcoming observations with JWST, Roman, and SKA will be essential in distinguishing PBH-driven structure formation from predictions made by standard $Lambda$CDM cosmology."
  },
  {
-   "date": "Sept 24",
-   "speaker": "Johannes Lange",
-   "institution": "American University",
-   "title": "",
-   "abstract": ""
- },
- {
    "date": "Oct 1",
-   "speaker": "Naadiyah Jagga",
+   "speaker": "Johannes Lange",
    "institution": "York University",
    "title": "",
    "abstract": ""
