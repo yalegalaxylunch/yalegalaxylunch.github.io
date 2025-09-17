@@ -21,6 +21,13 @@
    "abstract": ""
  },
  {
+   "date": "Oct 7",
+   "speaker": "Adrealuna Pizzetti (special seminar)",
+   "institution": "ESO-ALMA Fellow",
+   "title": "To the torus and beyond: an X-ray study of AGN tori morphology",
+   "abstract": "We present the multi-epoch analysis of 13 variable, nearby (z<0.1), Compton-thin active galactic nuclei (AGN) selected from the 105-month BAT catalog. Analyzing all available archival soft and hard X-ray observations, we investigate the line-of-sight hydrogen column density (NH) variability on timescales ranging from a few days to approximately 20 years. Each source is analyzed by simultaneously modeling the data with three physical torus models, providing tight constraints on torus properties, including the covering factor, the cloud dispersion, and the torus average hydrogen column density. Our final sample includes 27 variable, Compton-thin AGN after implementing another 14 AGN analyzed in our previous work. We find that all sources require either flux or NH variability. Based on the degree of variability, we classify 37% of them as NH Variable, 44% as non-variable in NH, and 19% as Undetermined. Noticeably, there is no discernible difference between geometrical, intrinsic and accretion properties among the three variability classes, suggesting no intrinsic differences between the NH-variable and non-variable sources within the considered sample."
+ },
+ {
    "date": "Oct 8",
    "speaker": "Vandana Ramakrishnan",
    "institution": "Purdue University",
