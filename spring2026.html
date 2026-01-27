@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Spring 2026 - Galaxy Lunch</title> <!-- change semester here -->
+  <link rel="stylesheet" href="./style.css" />  <!-- when semester is over, change this to ../style.css -->
+</head>
+<body>
+  <div class="container">
+  <div id="header-container"></div>
+
+  <main class="content">
+        <h2>Spring 2026 <!-- change semester here --> Seminar Schedule</h2>
+        <hr>
+        <!-- when semester is over, delete intro -->
+        <p> 
+          For Spring 2026 <!-- change semester here -->, we will be organizing the seminar every Wednesday from 12pm to 1pm Eastern Time in KT 501.
+          We ask all attendees to follow our <a href="./guidelines.html">Guidelines for Engagement</a>.
+          Below is the current schedule for this semester, with speakers, home institutions, talk titles, and abstracts. 
+        </p>
+        <p>
+          <em>For speakers and talks from previous semesters, you can find archived schedules <a href="archive.html">here</a>.</em>
+        </p>
+        <table class="schedule-table">
+            <thead>
+              <tr>
+                <th>Date</th>
+                <th>Speaker</th>
+                <th>Institution</th>
+                <th>Title</th>
+              </tr>
+            </thead>
+            <tbody id="schedule-body"></tbody>
+          </table>
+        </main>
+    </div>      
+    <script>
+      // change semester .json file here
+      window.scheduleJsonPath = "spring2026.json"; 
+    </script>
+    <script src="./scripts.js"></script>  <!-- when semester is over, change this to ../scripts.js -->
+  </body>
+  </html>
+  <!-- when the semester is over, move this .html into a new .html file and the corresponding .json file into the archive, 
+   and update the archive.html page to include it -->
+  
