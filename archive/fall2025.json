@@ -37,9 +37,9 @@
  {
    "date": "Oct 15",
    "speaker": "Max Newman",
-   "institution": "Rutgers University",
-   "title": "",
-   "abstract": ""
+   "institution": "STScI",
+   "title": "Tip of the Red Giant Branch Distances to NGC 1316, NGC 1380, NGC 1404, & NGC 4457: A Pilot Study of a Parallel Distance Ladder Using Type Ia Supernovae in Early-Type Host Galaxies",
+   "abstract": "One of the most fundamental measurements in astronomy is distances. Distances are essential to measuring cosmologically significant parameters such as the local expansion rate of the Universe, the Hubble constant (H_0). The most precise measurements of H_0 use a three-rung local distance ladder to connect the local and high-redshift Universes. Type-Ia supernovae (SNe Ia), the third rung, extend the distance ladder into the Hubble flow owing to their high and standardizable luminosities, whose properties are best calibrated through astronomical distance indicators in the second rung. Currently, local H_0 measurements select SNe Ia in star-forming, late-type host galaxies calibrated by Cepheid distances to prioritize consistency in SNe Ia properties. However, an alternate, parallel distance ladder using SNe Ia in non-star-forming, early-type host galaxies (ETGs) calibrated by the Tip of the Red Giant Branch (TRGB) distances can provide an independent check on the value of H_0. At present, the number of host ETGs with the requisite data for precise TRGB distances is limited by their proximity to us. In this talk, I will present our work to test the feasibility of the parallel ETG TRGB distance calibrated cosmic distance ladder using a combination of new and archival HST and JWST data in conjunction with a carefully selected SN Ia Hubble Flow sample matched in host-galaxy and light-curve properties."
  },
  {
    "date": "Oct 22",
@@ -59,35 +59,35 @@
    "date": "Nov 5",
    "speaker": "James Sunseri",
    "institution": "Princeton University",
-   "title": "",
-   "abstract": ""
+   "title": "Supermassive Black Hole Growth in Massive Galaxies at Cosmic Dawn",
+   "abstract": "Among the emerging excess of massive, bright galaxies at Cosmic Dawn z≳9 seen by the James Webb Space Telescope, several exhibit spectral features associated with active galactic nuclei (AGN). These AGN candidates suggest that supermassive black holes (SMBHs) grow rapidly in the early Universe. In a series of numerical experiments, we investigated how SMBHs grow within and influence the most massive galaxies at Cosmic Dawn using cosmological hydrodynamic zoom-in simulations run with the adaptive mesh refinement code RAMSES. In this talk, I will present our suite of simulations which explore how super-Eddington accretion, seed mass, and the strength of feedback influence SMBH-galaxy co-evolution in the early Universe. Along the way, I will unpack several unexpected results from our numerical experiments. One of which includes the lack of galaxy-scale, AGN-driven quenching in the star formation rate (SFR) across all simulations in our suite."
  },
  {
    "date": "Nov 12",
    "speaker": "Sam Berek",
-   "institution": "University of Toronto",
-   "title": "",
-   "abstract": ""
+   "institution": "UMass Amherst",
+   "title": "Understanding star formation on the largest scales using the smallest galaxies: a statistical approach",
+   "abstract": "Low-mass galaxies provide an unparalleled environment in which to better understand star formation in the early universe. Their relatively simple evolutionary histories and old, metal-poor stellar populations make them a sort of “fossil” of early times. In particular, dwarf galaxies are a promising laboratory for the study of globular clusters (GCs), which are present in almost all evolved galaxies but whose formation and early evolution are still poorly understood. In this talk, I will present multiple statistical methods that I have developed to model the scaling relation between galaxy masses and GC systems, with a focus on understanding the subpopulation of dwarfs which do not have any GCs. I will highlight the broad range of conclusions that this statistical approach enables, including the quantification of intrinsic scatter in the scaling relation and that dwarfs with and without GCs appear to be from the same evolutionary population. These results provide important constraints for simulations of GC formation and evolution, and can begin to be tested with high-z, JWST GC and stellar clump data, helping guide us toward a better understanding of star cluster formation and evolution across cosmic time."
  },
  {
    "date": "Nov 19",
    "speaker": "Abby Mintz",
    "institution": "Princeton University",
-   "title": "",
-   "abstract": ""
+   "title": "Taking a Break at Cosmic Noon: Continuum-selected Low-mass Galaxies Require Long Burst Cycles",
+   "abstract": "The bursty nature of star formation in dwarf galaxies has been well established in observations of local populations and results from simulations, but due to technical limitations, has so far not been thoroughly studied beyond the local universe. I will present an unprecedented continuum-selected sample of JWST prism spectra of low-mass galaxies at cosmic noon (1<z<3), selected only on F200W magnitude and 20-band photometric redshift. The spectra reveal a significant number of strong Balmer breaks, which indicate extended periods of suppressed star formation activity. By generating synthetic samples of spectra using a simple parameterization of bursty SFHs, we show that the distribution of Balmer breaks constrains the timescale and amplitude of bursts in the low-mass galaxy population at cosmic noon. The bursty SFHs are dominated by cycles with timescales greater than ~200 Myr and with significant deviations from the SFMS. Our results shed light on the underlying physics driving the bursty behavior in these systems and demonstrate that the Balmer break can powerfully constrain population-level star formation characteristics for low-mass galaxies."
  },
  {
    "date": "Dec 3",
    "speaker": "Nishant Mishra",
    "institution": "University of Michigan",
-   "title": "",
-   "abstract": ""
+   "title": "The circumgalactic medium of dwarf galaxies: A sensitive laboratory for feedback",
+   "abstract": "Dwarf galaxies provide a uniquely sensitive laboratory for studying how stellar feedback regulates galaxy evolution. Their shallow gravitational potentials and low metal content imply that a significant fraction of their metals must reside outside the ISM, in the circumgalactic medium (CGM). However, direct constraints on the CGM of low-mass galaxies have remained scarce due to their intrinsically low luminosities and strong environmental effects. We use the Cosmic Ultraviolet Baryon Survey (CUBS) to carry out the first statistically significant study of the CGM around isolated dwarf galaxies at intermediate redshift (0.08 < z < 0.77). We spectroscopically identify 102 isolated field dwarf galaxies with log(M**/M☉) < 9 and use high-S/N background quasar spectra from HST COS, we detect widespread, multi-phase gas in absorption extending to several virial radii. These measurements show that the OVI-bearing phase of the CGM/IGM accounts for the majority of the oxygen budget from star-formation, and the kinematic distribution of absorption systems suggests that a relatively modest fraction of this gas is formally unbound from the halo. Photoionization analysis of one system with strong absorption in the inner-CGM shows evidence of ɑ-enhancement characteristic of core-collapse supernovae driven winds. These results provide new empirical constraints on how dwarfs expel, heat, and recycle baryons, establishing CGM observations of intermediate redshift dwarf galaxies as a critical link to theoretical models of galactic feedback."
  },
  {
    "date": "Dec 10",
    "speaker": "Jingyao Zhu",
    "institution": "Columbia University",
-   "title": "",
-   "abstract": ""
+   "title": "What Quenches WLM? Constraining Gas-Stripping Conditions in Dwarf Satellite Galaxies",
+   "abstract": "Dwarf galaxies (M* < 109 Msun) in low-density environments are gas-rich, yet most dwarf satellites of the Milky Way (MW), M31, and external MW analogs are gas-poor and quenched. Cosmological zoom-in simulations identify ram pressure stripping (RPS), the direct gas removal by the host’s circumgalactic medium (CGM), as the dominant quenching mechanism, but limited numerical resolution can overestimate gas loss in low-mass dwarfs. In this talk, I present two suites of high-resolution (20 pc) hydrodynamical “wind-tunnel” simulations designed to calibrate dwarf satellite RPS efficiency in MW-like halos. The simulations resolve the multiphase interstellar medium in the satellites and incorporate both internal gas removal by star formation feedback and external stripping by ram pressure. We find that a standard MW CGM can fully quench satellites with M* < 107 Msun within a few hundred Myr. However, a M* = 107.2 Msun satellite (based on the dwarf irregular galaxy, WLM) cannot be fully stripped under any realistic orbit in a smooth MW halo, which is in tension with observed gas-poor satellites of comparable mass. This tension is resolved when density substructure in the host CGM, in the form of cold gas clumps, is included. I will present a calibrated analytic RPS theory for the gas stripping of dwarf satellite galaxies."
  }
 ]
