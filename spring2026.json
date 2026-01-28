@@ -1,12 +1,5 @@
 [
  {
-   "date": "Feb 4",
-   "speaker": "Mike Koss",
-   "institution": "Eureka Scientific",
-   "title": "",
-   "abstract": ""
- },
- {
    "date": "Feb 11",
    "speaker": "Katya Gozman",
    "institution": "University of Michigan",
@@ -85,8 +78,8 @@
  },
  {
    "date": "May 6",
-   "speaker": "TBA",
-   "institution": "",
+   "speaker": "Mike Koss",
+   "institution": "Eureka Scientific",
    "title": "",
    "abstract": ""
  }
