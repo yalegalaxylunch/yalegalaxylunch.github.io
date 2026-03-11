@@ -35,13 +35,6 @@
    "abstract": ""
  },
  {
-   "date": "Mar 25",
-   "speaker": "Mansi Padave",
-   "institution": "UC San Diego",
-   "title": "",
-   "abstract": ""
- },
- {
    "date": "Apr 1",
    "speaker": "Vedant Chandra",
    "institution": "Harvard University",
@@ -49,15 +42,8 @@
    "abstract": ""
  },
  {
-   "date": "Apr 8",
-   "speaker": "Tehreem Hai",
-   "institution": "Rutgers University",
-   "title": "",
-   "abstract": ""
- },
- {
    "date": "Apr 15",
-   "speaker": "Dilys Ruan",
+   "speaker": "Tehreem Hai",
    "institution": "Rutgers University",
    "title": "",
    "abstract": ""
@@ -66,13 +52,6 @@
    "date": "Apr 22",
    "speaker": "Arpit Arora",
    "institution": "University of Washington",
-   "title": "",
-   "abstract": ""
- },
- {
-   "date": "Apr 29",
-   "speaker": "Nabanita Das",
-   "institution": "Georgia State University",
    "title": "",
    "abstract": ""
  },
