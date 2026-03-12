@@ -10,29 +10,29 @@
    "date": "Feb 18",
    "speaker": "Imad Pasha",
    "institution": "Yale University / Dragonfly FRO",
-   "title": "",
-   "abstract": ""
+   "title": "Unveiling the Invisible Gaseous Universe with MOTHRA ",
+   "abstract": "Gas is the fundamental fuel driving the evolution of baryonic structure in the universe, flowing along cosmic filaments, feeding galaxies to support star formation, and taking part in cycling between being locked up in stars and expelled into the ISM and CGM of galaxies, where it mixes with existing gas. However, due to the steep relation between gas density and emissivity, the vast majority of the gas in the universe, outside of the dense ISM of galaxies, has heretofore been largely invisible to our instruments in emission. In this talk I will present MOTHRA, a novel, massive, distributed aperture array telescope equipped with 1,140 high-end telephoto lenses and ultranarrowband filters, working together as an effective 4.7 meter facility. MOTHRA's optical design and data acquisition and reduction approach is designed specifically to unveil this unexplored parameter space of extreme low surface brightness gas emission. After presenting the instrument design, I will show early results from the under-construction array, which has already made several major discoveries in this regime. "
  },
  {
    "date": "Feb 25",
    "speaker": "Luísa Buzzo",
    "institution": "Yale University",
-   "title": "",
-   "abstract": ""
+   "title": "The Luminous and Dark Matter Content of Ultra-Diffuse Galaxies",
+   "abstract": "Ultra-diffuse galaxies (UDGs) are among some of the most extreme galaxies known. They have sizes comparable to the Milky Way, yet luminosities and stellar masses typical of dwarfs. Since their rediscovery a decade ago, UDGs have challenged simple pictures of galaxy formation, raising fundamental questions about how stars, dark matter, and environment shape galaxies at the low-mass end. In this talk, I present an observational taxonomy for understanding the origins of UDGs, based on multiwavelength photometry, globular cluster populations, and spatially resolved spectroscopy. Globular cluster richness emerges as a key tracer of formation history, allowing UDGs to be organized into two dominant evolutionary pathways: puffed up dwarf galaxies and failed galaxies. I then focus on the most extreme outliers, globular cluster rich systems that appear strongly deficient in dark matter, and present evidence that they represent a distinct and reproducible population rather than rare anomalies. These galaxies offer new observational laboratories to test galaxy formation physics and the nature of dark matter on small scales."
  },
  {
    "date": "Mar 4",
    "speaker": "Nondh Panithanpaisal",
    "institution": "Carnegie-Caltech",
-   "title": "",
-   "abstract": ""
+   "title": "The Fate of Disrupted Globular Clusters: A Cosmological, Star-by-Star View of Simulated Globular Cluster Stellar Streams in a Milky Way–Mass Galaxy",
+   "abstract": "Density variations along globular cluster stellar streams induced by encounters with dark subhalos can provide robust constraints on the nature of dark matter. However, such density variations can also arise naturally from the intrinsic properties of the clusters, such as their density profiles and initial orbits, as well as from interactions with other Galactic substructures, such as the Galactic disk. The lack of realistic and self-consistent simulations of globular cluster formation, evolution, and disruption hinders our ability to fully characterize and disentangle subhalo-induced features from non-subhalo effects. In this talk, I will present the first cosmological, self-consistent, star-by-star simulation of a complete population of globular cluster stellar streams around a Milky Way–mass host. Despite tracing the orbits of escaped stars in a smooth, subhalo-free Galactic potential, the majority of our simulated streams exhibit complex morphologies. One common feature is a bifurcation in the stream track centered on the progenitor, similar to what is observed in the tidal tails of NGC 1904. This is driven by episodic stripping and non-periodic changes in the progenitor orbit over time. Moreover, our simulated streams are generally wider and significantly longer than the observed Milky Way globular cluster streams; however, their thinnest segments have properties that are consistent with observations. This suggests that, observationally, we may have detected only the thinnest, most stream-like portions of Milky Way globular cluster streams, while their more extended and diffuse components remain undetected. This prediction can be tested with upcoming deep photometric surveys such as LSST and Roman."
  },
  {
    "date": "Mar 11",
    "speaker": "Natanael Isidio",
    "institution": "ESO (Germany)",
-   "title": "",
-   "abstract": ""
+   "title": "The kinematic imprinting of environmental quenching in z<0.2 galaxies",
+   "abstract": "In this talk I will present the first systematic census of quenching mechanisms using kinematic asymmetries in a large sample of ∼6,700 galaxies from the MaNGA survey, providing a unified view of what halts star formation in the local Universe (z ≲ 0.2). We quantify stellar and nebular gas disturbances through the higher-order terms of a Fourier series expansion, as implemented in the Kinemetry package. These asymmetries serve as powerful diagnostics, as different quenching mechanisms leave distinct kinematic signatures on gas and stars. Our analysis reveals that the most effective quenching pathways leave minimal kinematic imprints by the time galaxies are fully quenched. This “kinematic regularity” points toward slow-acting processes (≳3 Gyr) such as starvation and maintenance feedback. A striking finding emerges from our mass-matched analysis: quenched symmetric satellites are significantly more compact than their asymmetric counterparts (3.4σ), a trend that is even more pronounced for symmetric centrals (12.3σ). Our results suggest that environment drives the dominant satellite quenching pathway through rapid gas stripping followed by long-term starvation. These compact, kinematically undisturbed satellites (the most representative case within our sample) have undergone intense gas stripping and central compaction, creating bulge-like structures with old, metal-rich stellar populations. Combined with halo gas cut-off and the prevention of cosmological accretion due to starvation, this creates an irreversible quenching path. Conversely, the larger sizes of disturbed, quenched centrals are consistent with merger-driven growth, where dry and minor mergers account for approximately 30% of local, massive, quenched centrals. Internal processes, likely driven by the AGN cycle over 1-3 Gyr that prevents hot halo gas cooling, sustain quenching maintenance in this population. The absence of asymmetric satellites in the star-forming regime suggests environmental quenching operates without significant kinematic perturbation."
  },
  {
    "date": "Apr 1",
@@ -45,8 +45,8 @@
    "date": "Apr 15",
    "speaker": "Tehreem Hai",
    "institution": "Rutgers University",
-   "title": "",
-   "abstract": ""
+   "title": "The Role of Environment in Quenching Three Ultrafaint Dwarf Galaxies Outside the Local Group",
+   "abstract": "The lowest-mass galaxies in the universe–Ultrafaint Dwarf Galaxies or UFDs–provide critical constraints on the processes which quench star formation at the faint end of the galaxy luminosity function. The first UFDs were discovered in close proximity to the Milky Way and showed early quenching consistent with the cessation of star formation via reionization and stellar feedback. However, as we discover faint galaxies at farther distances and in different environments, we see a diversity in their star formation histories which indicates that environment may have also played a role in the quenching of UFDs. We present new Hubble Space Telescope (HST) imaging of three UFDs in the Sculptor constellation, from which we measure precise Horizontal Branch and Tip of the Red Giant Branch distances to the systems (1.2-2.6 Mpc) and measure preliminary star formation histories. Our sample of UFDs covers widely varying extents of isolation, from satellite to truly isolated environments. We see tentative delays in quenching for the more isolated UFDs in our sample, indicating that environment may have played a significant role in the quenching of ultrafaint dwarf galaxies."
  },
  {
    "date": "Apr 22",
