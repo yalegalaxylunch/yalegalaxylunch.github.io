@@ -1,81 +1,79 @@
 [
-  {
-    "date": "Sep 9",
-    "speaker": "Yilun Ma",
-    "institution": "Princeton",
-    "title": "TBD",
-    "abstract": "I will discuss our efforts in using wide-area surveys combined with spectroscopic follow-ups to understand the redshift evolution, luminosity functions, and the nature of little red dots. "
-  },
-  {
-    "date": "Sep 16",
-    "speaker": "Leonard Romano",
-    "institution": "ESO",
-    "title": "",
-    "abstract": ""
-  },
-  {
-    "date": "Sep 23",
-    "speaker": "Manami Roy",
-    "institution": "Ohio State",
-    "title": "",
-    "abstract": ""
-  },
-  {
-    "date": "Sep 30",
-    "speaker": "Himansh Rathore",
-    "institution": "University of Arizona",
-    "title": "",
-    "abstract": ""
-  },
-  {
-    "date": "Oct 7",
-    "speaker": "Niranjan Chandra Roy",
-    "institution": "University of Connecticut",
-    "title": "",
-    "abstract": ""
-  },
-  {
-    "date": "Oct 14",
-    "speaker": "Elias Oakes",
-    "institution": "University of Connecticut",
-    "title": "The imprint of star formation on parsec-scale molecular gas structure in NGC 253",
-    "abstract": "The internal density structure of cold molecular clouds governs where, when, and how efficiently stars form, but is poorly constrained on the few-parsec scales where individual clumps form. To address this gap, I will present a sample of nearly 300 resolved molecular gas peaks and their radial density profiles in the nearby starburst galaxy NGC 253, leveraging 7 pc resolution ALMA CO(2-1) observations over a 1.4x5.6 kpc2 field. Using functional fits alongside non-parametric statistics, we characterize each peak's radial intensity structure to assess its morphology, concentration, and degree of disruption. We directly compare these profiles to matched tracers of the dusty and ionized ISM using JWST/MIRI and VLT/MUSE observations to investigate how star formation activity and stellar feedback affect profile structure. Our results suggest that the presence of local star formation activity systematically shapes profile geometries at scales of a few to tens of parsecs, with differences between the two star formation tracers hinting at a possible evolutionary sequence. This represents the first study of molecular gas density profiles beyond the local group at sub-cloud scales, enabling a robust statistical comparison to work in the Milky Way."
-  },
-  {
-    "date": "Oct 28",
-    "speaker": "Kiyan Tavangar",
-    "institution": "Columbia University",
-    "title": "Streams and Snails: Galactic Dynamics in the Halo and the Disk",
-    "abstract": "Recent large astronomical surveys clearly show that the Milky Way is out of equilibrium. While that makes modeling the Milky Way more difficult, it also provides an opportunity to learn about non-equilibrium dynamics and to learn about our Galaxy's history. In the halo, stellar streams represent our greatest hope of constraining the low mass end of the dark matter subhalo function. I will present a new stream modeling framework that will be instrumental for creating a catalog of stream models and stream inhomogeneities, both of which are critical for constraining dark matter. In the disk, phase space spirals are remnants of past perturbations to the disk. I will discuss how they can be used to time that perturbation and what they can tell us about the way self-gravity influences disk evolution."
-  },
-  {
-    "date": "Nov 4",
-    "speaker": "Sahil Hegde",
-    "institution": "UCLA",
-    "title": "Tracing the star formation history of the universe with flexible galaxy models",
-    "abstract": "The quest to find the first stars has driven astronomers across cosmic time, from hopes to identify their signatures in their heyday at cosmic dawn to deep searches for their remnants in our local neighborhood. While these searches, which began in the Hubble era and have more recently been reinvigorated with JWST, have revealed a number of potential candidates, our observational understanding of early star formation remains incomplete. Building up a statistical sample to piece together this puzzle crucially relies on robust theoretical modelling to identify when and where we expect low-metallicity star formation to have occurred and survived. In this talk, I will describe our latest semi-analytic efforts to efficiently trace the formation of the first stars from their birth through the first billion years of our universe's history, jointly following star formation out of pristine and metal-enriched gas over time in a framework we call the “abcd” model. With abcd, we can bridge the gap between numerical simulations and previous semi-analytic models, self-consistently following star formation from the 'minihalo' era through the epoch of reionization, finding that pristine star formation can persist at a high level even in more dominantly metal-enriched systems down to z~5, but is limited to the most massive halos. I will discuss the implications of these theoretical predictions for our observational landscape and touch on promising avenues to search for Pop III star formation through deep galaxy observations, transient searches, and intensity mapping measurements, suggesting that the first constraints on the demographics of the first stars could be within reach. Finally, to complete this whirlwind tour of the star formation history of the universe, I will step beyond the Pop III era and discuss recent phenomenological work testing the consistency of observed 'fundamental' galaxy scaling relations in the JWST era, exploring the current state of our theoretical models and the observations against which we benchmark them."
-  },
-  {
-    "date": "Nov 11",
-    "speaker": "Liam Dubay",
-    "institution": "Ohio State University",
-    "title": "Milky Way Disk Archaeology: Constraining Enrichment and Accretion Timescales with Chemical Evolution Models",
-    "abstract": "Stellar abundance patterns in the Milky Way reflect a complex history of nucleosynthesis that is not fully understood. Recent advances in stellar age estimation techniques have added a new dimension to galactic archaeological studies, providing a direct probe of the chemical enrichment history across the disk. Using multi-zone galactic chemical evolution models and data from the APOGEE and Milky Way Mapper surveys, I will show how these catalogs can be leveraged to study the history of star formation and chemical enrichment across the Galaxy. First, the Milky Way’s age-metallicity relation is flat, which conflicts with the two-infall scenario and other models with major gas accretion events. Second, stellar [alpha/Fe] ratios reveal an extended delay-time distribution for Type Ia supernovae, offering a window into their progenitor systems. Finally, s-process elements such as Ce, which have been proposed as “chemical clocks,” provide observational constraints on the timescale of asymptotic giant branch nucleosynthesis."
-  },
-  {
-    "date": "Nov 18",
-    "speaker": "Aritra Kundu",
-    "institution": "UPenn",
-    "title": "Probing Reionization using both High-z and Low-z Galaxies",
-    "abstract": "The Epoch of Reionization (EoR) is the period when the first stars and galaxies ionized the neutral hydrogen of the intergalactic medium (IGM). Faint, star-forming galaxies are considered to be the primary drivers of reionization, yet their exact contribution remains uncertain. This requires measuring the faint end of the high-redshift UV luminosity function (UVLF), which is currently not possible even with JWST. Additionally, constraining reionization requires understanding both the sources of ionizing photons and their impact on the IGM. My work develops complementary probes for each of them.
-I will introduce the near-far technique, which reconstructs the high-z faint-end UVLF from the star-formation histories encoded in resolved color-magnitude diagrams of present-day nearby galaxies and can reach fainter end than what is possible through direct observations. However, previous applications used only surviving, intact low-mass galaxies. Using the FIRE simulations, I show that adding the progenitors of disrupted systems such as stellar streams recovers the high-z UVLF more accurately and precisely, and provides better constraints on the faint-end slope. It is also important to test the feasibility of using the disrupted galaxies in the context of the near-far technique, for which I will present the mock catalogs I built to forecast what Rubin and Roman will deliver for this method.
-The shape of the UVLF constrains how many ionizing photons the faint galaxies produced, but not how the surrounding gas was ionized by them. For this, I turn to a direct tracer of the neutral IGM: Lyman-alpha emitters (LAEs). I will briefly discuss my model of Lyman-alpha transmission through the IGM during the EoR and its applications, which includes predicting the LAE fraction as a function of redshift and prospects for Roman cross-correlations with other large-scale EoR signals to map the growth of ionized regions and constrain the reionization history."
-  },
-  {
-    "date": "Dec 9",
-    "speaker": "Naadiyah Jagga",
-    "institution": "York University",
-    "title": "Exploring High-Redshift Galaxies with JWST: Medium Bands, Stellar Mass, and Spatially Resolved Properties",
-    "abstract": "JWST NIRCam enables spatially resolved studies of high-redshift galaxies, revealing internal variations in stellar populations and improving stellar-mass estimates. Using ∼3000 galaxies at 1< z_phot <9, we investigate biases between integrated and resolved stellar masses, finding increasing underestimates in high-sSFR, low-mass galaxies. We also explore the power of NIRCam medium bands to identify faint Red Emission-line Galaxies (REGs), which combine red continua with strong emission lines. Spatially resolved maps of stellar mass, dust, and sSFR provide a new way to investigate the origin of their red colors and the location of their emission-line activity."
-  }
+{
+"date": "Sep 9",
+"speaker": "Yilun Ma",
+"institution": "Princeton",
+"title": "TBD",
+"abstract": "I will discuss our efforts in using wide-area surveys combined with spectroscopic follow-ups to understand the redshift evolution, luminosity functions, and the nature of little red dots. "
+},
+{
+"date": "Sep 16",
+"speaker": "Leonard Romano",
+"institution": "ESO",
+"title": "",
+"abstract": ""
+},
+{
+"date": "Sep 23",
+"speaker": "Manami Roy",
+"institution": "Ohio State",
+"title": "",
+"abstract": ""
+},
+{
+"date": "Sep 30",
+"speaker": "Himansh Rathore",
+"institution": "University of Arizona",
+"title": "",
+"abstract": ""
+},
+{
+"date": "Oct 7",
+"speaker": "Niranjan Chandra Roy",
+"institution": "University of Connecticut",
+"title": "",
+"abstract": ""
+},
+{
+"date": "Oct 14",
+"speaker": "Elias Oakes",
+"institution": "University of Connecticut",
+"title": "The imprint of star formation on parsec-scale molecular gas structure in NGC 253",
+"abstract": "The internal density structure of cold molecular clouds governs where, when, and how efficiently stars form, but is poorly constrained on the few-parsec scales where individual clumps form. To address this gap, I will present a sample of nearly 300 resolved molecular gas peaks and their radial density profiles in the nearby starburst galaxy NGC 253, leveraging 7 pc resolution ALMA CO(2-1) observations over a 1.4x5.6 kpc2 field. Using functional fits alongside non-parametric statistics, we characterize each peak's radial intensity structure to assess its morphology, concentration, and degree of disruption. We directly compare these profiles to matched tracers of the dusty and ionized ISM using JWST/MIRI and VLT/MUSE observations to investigate how star formation activity and stellar feedback affect profile structure. Our results suggest that the presence of local star formation activity systematically shapes profile geometries at scales of a few to tens of parsecs, with differences between the two star formation tracers hinting at a possible evolutionary sequence. This represents the first study of molecular gas density profiles beyond the local group at sub-cloud scales, enabling a robust statistical comparison to work in the Milky Way."
+},
+{
+"date": "Oct 28",
+"speaker": "Kiyan Tavangar",
+"institution": "Columbia University",
+"title": "Streams and Snails: Galactic Dynamics in the Halo and the Disk",
+"abstract": "Recent large astronomical surveys clearly show that the Milky Way is out of equilibrium. While that makes modeling the Milky Way more difficult, it also provides an opportunity to learn about non-equilibrium dynamics and to learn about our Galaxy's history. In the halo, stellar streams represent our greatest hope of constraining the low mass end of the dark matter subhalo function. I will present a new stream modeling framework that will be instrumental for creating a catalog of stream models and stream inhomogeneities, both of which are critical for constraining dark matter. In the disk, phase space spirals are remnants of past perturbations to the disk. I will discuss how they can be used to time that perturbation and what they can tell us about the way self-gravity influences disk evolution."
+},
+{
+"date": "Nov 4",
+"speaker": "Sahil Hegde",
+"institution": "UCLA",
+"title": "Tracing the star formation history of the universe with flexible galaxy models",
+"abstract": "The quest to find the first stars has driven astronomers across cosmic time, from hopes to identify their signatures in their heyday at cosmic dawn to deep searches for their remnants in our local neighborhood. While these searches, which began in the Hubble era and have more recently been reinvigorated with JWST, have revealed a number of potential candidates, our observational understanding of early star formation remains incomplete. Building up a statistical sample to piece together this puzzle crucially relies on robust theoretical modelling to identify when and where we expect low-metallicity star formation to have occurred and survived. In this talk, I will describe our latest semi-analytic efforts to efficiently trace the formation of the first stars from their birth through the first billion years of our universe's history, jointly following star formation out of pristine and metal-enriched gas over time in a framework we call the “abcd” model. With abcd, we can bridge the gap between numerical simulations and previous semi-analytic models, self-consistently following star formation from the 'minihalo' era through the epoch of reionization, finding that pristine star formation can persist at a high level even in more dominantly metal-enriched systems down to z~5, but is limited to the most massive halos. I will discuss the implications of these theoretical predictions for our observational landscape and touch on promising avenues to search for Pop III star formation through deep galaxy observations, transient searches, and intensity mapping measurements, suggesting that the first constraints on the demographics of the first stars could be within reach. Finally, to complete this whirlwind tour of the star formation history of the universe, I will step beyond the Pop III era and discuss recent phenomenological work testing the consistency of observed 'fundamental' galaxy scaling relations in the JWST era, exploring the current state of our theoretical models and the observations against which we benchmark them."
+},
+{
+"date": "Nov 11",
+"speaker": "Liam Dubay",
+"institution": "Ohio State University",
+"title": "Milky Way Disk Archaeology: Constraining Enrichment and Accretion Timescales with Chemical Evolution Models",
+"abstract": "Stellar abundance patterns in the Milky Way reflect a complex history of nucleosynthesis that is not fully understood. Recent advances in stellar age estimation techniques have added a new dimension to galactic archaeological studies, providing a direct probe of the chemical enrichment history across the disk. Using multi-zone galactic chemical evolution models and data from the APOGEE and Milky Way Mapper surveys, I will show how these catalogs can be leveraged to study the history of star formation and chemical enrichment across the Galaxy. First, the Milky Way’s age-metallicity relation is flat, which conflicts with the two-infall scenario and other models with major gas accretion events. Second, stellar [alpha/Fe] ratios reveal an extended delay-time distribution for Type Ia supernovae, offering a window into their progenitor systems. Finally, s-process elements such as Ce, which have been proposed as “chemical clocks,” provide observational constraints on the timescale of asymptotic giant branch nucleosynthesis."
+},
+{
+"date": "Nov 18",
+"speaker": "Aritra Kundu",
+"institution": "UPenn",
+"title": "Probing Reionization using both High-z and Low-z Galaxies",
+"abstract": "The Epoch of Reionization (EoR) is the period when the first stars and galaxies ionized the neutral hydrogen of the intergalactic medium (IGM). Faint, star-forming galaxies are considered to be the primary drivers of reionization, yet their exact contribution remains uncertain. This requires measuring the faint end of the high-redshift UV luminosity function (UVLF), which is currently not possible even with JWST. Additionally, constraining reionization requires understanding both the sources of ionizing photons and their impact on the IGM. My work develops complementary probes for each of them.\n\nI will introduce the near-far technique, which reconstructs the high-z faint-end UVLF from the star-formation histories encoded in resolved color-magnitude diagrams of present-day nearby galaxies and can reach fainter end than what is possible through direct observations. However, previous applications used only surviving, intact low-mass galaxies. Using the FIRE simulations, I show that adding the progenitors of disrupted systems such as stellar streams recovers the high-z UVLF more accurately and precisely, and provides better constraints on the faint-end slope. It is also important to test the feasibility of using the disrupted galaxies in the context of the near-far technique, for which I will present the mock catalogs I built to forecast what Rubin and Roman will deliver for this method.\n\nThe shape of the UVLF constrains how many ionizing photons the faint galaxies produced, but not how the surrounding gas was ionized by them. For this, I turn to a direct tracer of the neutral IGM: Lyman-alpha emitters (LAEs). I will briefly discuss my model of Lyman-alpha transmission through the IGM during the EoR and its applications, which includes predicting the LAE fraction as a function of redshift and prospects for Roman cross-correlations with other large-scale EoR signals to map the growth of ionized regions and constrain the reionization history."
+},
+{
+"date": "Dec 9",
+"speaker": "Naadiyah Jagga",
+"institution": "York University",
+"title": "Exploring High-Redshift Galaxies with JWST: Medium Bands, Stellar Mass, and Spatially Resolved Properties",
+"abstract": "JWST NIRCam enables spatially resolved studies of high-redshift galaxies, revealing internal variations in stellar populations and improving stellar-mass estimates. Using ∼3000 galaxies at 1< z_phot <9, we investigate biases between integrated and resolved stellar masses, finding increasing underestimates in high-sSFR, low-mass galaxies. We also explore the power of NIRCam medium bands to identify faint Red Emission-line Galaxies (REGs), which combine red continua with strong emission lines. Spatially resolved maps of stellar mass, dust, and sSFR provide a new way to investigate the origin of their red colors and the location of their emission-line activity."
+}
 ]
