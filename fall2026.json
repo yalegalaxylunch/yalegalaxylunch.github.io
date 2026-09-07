@@ -3,15 +3,15 @@
 "date": "Sep 9",
 "speaker": "Yilun Ma",
 "institution": "Princeton",
-"title": "TBD",
-"abstract": "I will discuss our efforts in using wide-area surveys combined with spectroscopic follow-ups to understand the redshift evolution, luminosity functions, and the nature of little red dots. "
+"title": "From Deep Fields to the Wide Sky: Tracing Little Red Dots Across Cosmic Time",
+"abstract": "Little red dots (LRDs) are an abundant population of red, compact, broad-line objects discovered by JWST at z=5-8. No existing models can fully explain their SEDs, which are V-shaped in the UV-optical and not strongly detected at other wavelengths. In this talk, I will first briefly review the challenges in understanding the SED of LRDs with JWST. I will then discuss our extensive effort to understand the demographics of LRDs across cosmic time, as they are 100x more abundant than quasars at z>5 but rarely identified at cosmic noon. I will present our search for LRDs at 2<z<5 using wide-area, ground-based, multi-wavelength imaging surveys, spectroscopic follow-up campaigns, and JWST observations. I will discuss our result from this search—including a dramatic number density decline towards lower redshift and a steep cutoff in luminosity functions of LRDs—as well as their implications to the LRD population and more broadly black hole growth. Finally, I will mention our planned multi-wavelength follow-ups of the low-redshift LRDs in the future to understand the nature of these intriguing sources. "
 },
 {
-"date": "Sep 16",
-"speaker": "Leonard Romano",
-"institution": "ESO",
-"title": "",
-"abstract": ""
+  "date": "Sep 16",
+  "speaker": "Leonard Romano",
+  "institution": "ESO",
+  "title": "Probing the Fuelling of Central Gas Reservoirs in Disk Galaxies with GALGRID",
+  "abstract": "Central gas reservoirs are a common feature in barred disk galaxies and may connect large-scale gas flows to nuclear activity, but their formation and fuelling remain poorly understood.\nIn this talk I will present GALGRID, a large suite of hydrodynamical simulations focusing on the evolution of isolated, main-sequence disk-galaxies.\nI characterize how some of the key properties governing central gas flows and the evolution of the galactic center depend on basic galaxy properties, such as galaxy mass and compactness.\nUsing dedicated re-simulations of one of the galaxies, I evaluate how robust these results are to numerical choices.\nMy analysis validates previous findings from N-body simulations that suggest that bars preferentially form in disky systems, and extends them to the gas-rich regime (gas fractions up to 40%).\nMoreover, I find that bar-driven radial gas in- and outflows largely balance, leaving a small residual inflow that can sustain a low, self-regulated central star assembly rate."
 },
 {
 "date": "Sep 23",
